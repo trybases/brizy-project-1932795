@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/lead","dest":"/lead.html"},{"src":"/signup","dest":"/signup.html"},{"src":"/login","dest":"/login.html"},{"src":"/account","dest":"/account.html"},{"src":"/v2","dest":"/v2.html"}]}
